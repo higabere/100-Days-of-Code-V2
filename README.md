@@ -9,3 +9,4 @@ LeetCode - Strings [Day02: Split a String in Balanced Strings](https://leetcode.
 LeetCode - Strings [Day03: Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 
 LeetCode - Strings [Day04: Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+                   [Day04: Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
