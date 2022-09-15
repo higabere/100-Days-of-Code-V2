@@ -12,4 +12,4 @@ LeetCode - Strings Day04: [Jewels and Stones](https://leetcode.com/problems/jewe
 
 LeetCode - Strings Day05: [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) , [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) , [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) , [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) , [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) 
 
-LeetCode - Strings Day06: [Add Two Integers](https://leetcode.com/problems/add-two-integers)
+LeetCode - Math Day06: [Add Two Integers](https://leetcode.com/problems/add-two-integers)
