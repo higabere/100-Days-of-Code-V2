@@ -4,9 +4,9 @@ class Solution {
         String strAux = "", str = ""; 
         
         for(String a : arrTitle) {
-            str = a.toLowerCase();
+            a = a.toLowerCase();
             
-            strAux = (str.length() > 2) ? strAux.concat(str.substring(0,1).toUpperCase().concat(str.substring(1))) : strAux.concat(str); 
+            strAux = (a.length() > 2) ? strAux.concat(a.substring(0,1).toUpperCase().concat(a.substring(1))) : strAux.concat(a); 
             strAux = strAux.concat(" "); 
         }
         return strAux.trim();        
