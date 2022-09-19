@@ -13,3 +13,5 @@ Day04 - LeetCode Strings: [Jewels and Stones](https://leetcode.com/problems/jewe
 Day05 - LeetCode Strings: [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) , [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) , [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) , [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) , [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) 
 
 Day06 - LeetCode Math: [Add Two Integers](https://leetcode.com/problems/add-two-integers)
+
+Day07 - LeetCode Math: [Three Divisors](https://leetcode.com/problems/three-divisors) , [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) , [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) 
