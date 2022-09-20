@@ -15,3 +15,5 @@ Day05 - LeetCode Strings: [Capitalize the Title](https://leetcode.com/problems/c
 Day06 - LeetCode Math: [Add Two Integers](https://leetcode.com/problems/add-two-integers)
 
 Day07 - LeetCode Math: [Three Divisors](https://leetcode.com/problems/three-divisors) , [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) , [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array)<p>&emsp;&emsp;&emsp;&ensp;&nbsp;LeetCode Strings: [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) , [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)</p>
+
+Day08 - LeetCode Array: [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Shuffle String](https://leetcode.com/problems/shuffle-string/)
