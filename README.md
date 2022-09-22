@@ -18,4 +18,4 @@ Day07 - LeetCode Math: [Three Divisors](https://leetcode.com/problems/three-divi
 
 Day08 - LeetCode Array: [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) , [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
-Day09 - LeetCode Array: [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
+Day09 - LeetCode Strings: [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
