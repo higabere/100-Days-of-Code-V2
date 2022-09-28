@@ -24,4 +24,4 @@ Day10 - LeetCode Array: [Search Insert Position](https://leetcode.com/problems/s
 
 Day11 - LeetCode Math: [Count Operations to Obtain Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
-Day12 - LeetCode Math: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/)
+Day12 - LeetCode ArrayList: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/)
