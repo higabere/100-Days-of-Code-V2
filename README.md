@@ -23,3 +23,5 @@ Day09 - LeetCode Strings: [Check if All A's Appears Before All B's](https://leet
 Day10 - LeetCode Array: [Search Insert Position](https://leetcode.com/problems/search-insert-position/) , [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) , [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) , [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) , [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 
 Day11 - LeetCode Math: [Count Operations to Obtain Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+
+Day12 - LeetCode Math: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/)
