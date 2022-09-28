@@ -6,10 +6,8 @@ class Solution {
         for(int x: candies)
             max = (x>max)? x:max;
         for(int i=0; i<candies.length; i++)
-            if(candies[i]+extraCandies >= max)
-                listValue.add(true);
-        else
-            listValue.add(false);
+            if(candies[i]+extraCandies >= max) listValue.add(true);
+            else listValue.add(false);
         
         return listValue;
     }
